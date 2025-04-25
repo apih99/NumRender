@@ -1,5 +1,5 @@
 import unittest
-from numword import words_to_number, number_to_words
+from NumRender import words_to_number, number_to_words
 
 class TestNumberConverter(unittest.TestCase):
 

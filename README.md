@@ -1,4 +1,4 @@
-# NumWord Library
+# NumRender Library
 
 A simple Python library to convert numbers to their word representations and vice versa.
 
@@ -13,20 +13,20 @@ pip install .
 ## Usage
 
 ```python
-import numword
+import NumRender
 
 # Convert words to number
-number = numword.words_to_number("three hundred and twenty five")
+number = NumRender.words_to_number("three hundred and twenty five")
 print(number)  # Output: 325
 
-number = numword.words_to_number("five thousand")
+number = NumRender.words_to_number("five thousand")
 print(number)  # Output: 5000
 
 # Convert number to words
-words = numword.number_to_words(1234)
+words = NumRender.number_to_words(1234)
 print(words) # Output: one thousand two hundred and thirty-four (example, actual output might vary slightly based on implementation)
 
-words = numword.number_to_words(5000)
+words = NumRender.number_to_words(5000)
 print(words) # Output: five thousand
 ```
 
