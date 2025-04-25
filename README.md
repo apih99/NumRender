@@ -7,7 +7,7 @@ A simple Python library to convert numbers to their word representations and vic
 ```bash
 # Installation instructions will be added here once published
 # For now, you can install it locally:
-pip install .
+pip install NumRender
 ```
 
 ## Usage
