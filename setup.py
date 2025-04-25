@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='numword',
+    name='NumWord',
     version='0.1.0',
     author='Shahrul Hafiz', 
     author_email='hafizcr716@gmail.com', 
@@ -12,10 +12,10 @@ setup(
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License ::  MIT License', 
+        'License :: OSI Approved :: MIT License', 
         'Operating System :: OS Independent',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     python_requires='>=3.6',
-  
+)

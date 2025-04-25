@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+NumWord.egg-info/PKG-INFO
+NumWord.egg-info/SOURCES.txt
+NumWord.egg-info/dependency_links.txt
+NumWord.egg-info/top_level.txt
+numword/__init__.py
+numword/number_converter.py
+tests/__init__.py
+tests/test_number_converter.py
