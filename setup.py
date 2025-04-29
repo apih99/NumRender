@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='NumRender',
-    version='0.1.0',
+    version='0.1.1',
     author='Shahrul Hafiz', 
     author_email='hafizcr716@gmail.com', 
     description='A library to convert numbers to words and vice versa',
